@@ -1,7 +1,7 @@
 #ifndef DOG_CLASS_HPP
 #define DOG_CLASS_HPP
 
-#include "Animal.hpp"
+#include "./Animal.hpp"
 
 class Dog : public Animal {
   public:

@@ -1,8 +1,8 @@
 #ifndef AMATERIA_CLASS_HPP
 #define AMATERIA_CLASS_HPP
 
-#include "Colors.h"
-#include "ICharacter.hpp"
+#include "./Colors.h"
+#include "./ICharacter.hpp"
 #include <iostream>
 #include <string>
 

@@ -1,7 +1,7 @@
 #ifndef BRAIN_CLASS_HPP
 #define BRAIN_CLASS_HPP
 
-#include "Colors.h"
+#include "./Colors.h"
 #include <iostream>
 #include <string>
 

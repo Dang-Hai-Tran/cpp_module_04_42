@@ -1,7 +1,7 @@
 #ifndef AANIMAL_CLASS_HPP
 #define AANIMAL_CLASS_HPP
 
-#include "Colors.h"
+#include "./Colors.h"
 #include <iostream>
 #include <string>
 

@@ -1,7 +1,7 @@
 #ifndef WRONG_ANIMAL_CLASS_HPP
 #define WRONG_ANIMAL_CLASS_HPP
 
-#include "Colors.h"
+#include "./Colors.h"
 #include <iostream>
 #include <string>
 

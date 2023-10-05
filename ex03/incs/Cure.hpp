@@ -1,7 +1,7 @@
 #ifndef CURE_MATERIA_CLASS_HPP
 #define CURE_MATERIA_CLASS_HPP
 
-#include "AMateria.hpp"
+#include "./AMateria.hpp"
 
 class Cure : public AMateria {
   public:
